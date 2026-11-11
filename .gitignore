@@ -5,3 +5,12 @@ __pycache__/
 venv/
 .env
 samples/*/sessions/
+node_modules/
+dist/
+cdk.out/
+.cdk.staging
+**/agentcore/.cache/
+**/agentcore/.cli/
+.env.local
+.env*.local
+*.zip
